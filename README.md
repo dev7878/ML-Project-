@@ -1,4 +1,4 @@
-# Student Performance Indicator - Exploratory Data Analysis and Model Training
+# Student Performance Indicator 
 
 This repository combines the Exploratory Data Analysis (EDA) and Model Training phases of a machine learning project aimed at understanding student performance indicators. The project explores how various factors influence student test scores and develops predictive models based on these attributes.
 
